@@ -1,0 +1,30 @@
+.nav-main{
+    padding: 10px;
+    background-color: rgba(143, 158, 175, 0.795);
+}
+.img-div{
+    text-align: center;
+}
+.logo-image{
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    
+}
+.nav-logo{
+    height: 30px;
+    margin: 10px 0 10px 40px;
+}
+.nav-items{
+    margin: 0 auto;
+}
+.nav-item{
+    margin-left: 70px;
+    transition: .5s;
+}
+.nav-item a:hover{
+    background-color: rgb(115, 166, 233);
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+}

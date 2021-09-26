@@ -5,13 +5,14 @@ import navLogo from '../../image/RELATIENT_logo-medres.png'
 
 const Header = () => {
     return (
-        <div>
+        <div className="container">
            <div className="img-div">
            <img className='logo-image' src={logo} alt="" />
            </div>
             <div className="nav-main">
                 <div className="img-div">
-                    <h3>In your city <span className="text-span text-danger">our medical team</span> is now here.</h3>
+                    <h3>In your city <span className="text-span fs-4  text-danger">our medical team</span> is now here.</h3>
+                    <h4>our team <span className="text-primary fs-4">total Budget : </span> $100000.</h4>
                 </div>
                 <div>
                     <nav className="navbar navbar-expand-lg navbar-light">

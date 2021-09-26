@@ -1,0 +1,26 @@
+
+.my-card{
+     margin: 10px 0;
+     height: 800px;
+     background-color:   #3f5efbe7;
+
+}
+.my-img{
+    height: 200px;
+}
+.card-body span{
+    color: white;
+    font:700;
+}
+.Stethoscope{
+    color: red;
+}
+.btn-add{
+    padding-top:10px ;
+    border-radius: 20px;
+    background-color: #fc466ae8;
+    color: black;
+    font-size: medium;
+    font: 600;
+    cursor: pointer;
+}

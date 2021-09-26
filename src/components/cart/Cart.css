@@ -1,0 +1,18 @@
+.cart{
+   font-size: 15px;
+   
+   display: grid;
+   grid-template-rows: 1fr;
+   border: 2px solid gray;
+   padding: 5px;
+   background-color: rgba(143, 158, 175, 0.795);
+}
+.doctor-fee{
+    color:black;
+    font:bolder;
+
+}
+span{
+    color:#ED213A;
+    font-size: 15px;
+}

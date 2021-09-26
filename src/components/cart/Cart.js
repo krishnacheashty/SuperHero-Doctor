@@ -22,7 +22,7 @@ const Cart = (props) => {
                 card.map(item=> <div>
                     <img src={item.picture} className="w-25" alt="" />
                     <p>{item.name}</p>
-                </div>)
+                </div>)/* hello */
                     
             } 
         </div>
